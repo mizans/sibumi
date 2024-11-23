@@ -1,0 +1,2 @@
+# sibumi
+Host Static Page
